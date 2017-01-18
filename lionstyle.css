@@ -1,0 +1,99 @@
+body{
+	margin: 0px;
+}
+.divall{
+	width: 100%;
+	height: 1200px;
+}
+#nav{
+	width: 100%;
+	height: 6%;
+	background-color: black;
+}
+ul{
+	list_style_type: none;
+	margin: 0px;
+}
+.imgLogo{
+	with: 300px;
+	height: 80px;
+}
+li{
+	display: inline;
+}
+.li_top{
+	font-weight: bold;
+	padding: 25px;
+	margin-right: 40px;
+	float: right;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+	color: lightgray;
+	transition: 0.5s;
+}
+#display1{
+	width: 100%;
+	height: 50%;
+	background-image: url(lion2.jpg);
+	background-size: cover;
+	border: 1px solid black;
+}
+.div1{
+	background-color: orange;
+	width: 30%;
+	margin: 70px;
+}
+.p1{
+    margin-top: 10px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-family: Sans;
+	font-size: 20px;
+}
+.p2{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-family: Georgia;
+	font-size: 40px;
+}
+#display2{
+	width: 100%;
+	height: 32%;
+
+}
+.display2_tr1{
+    padding: 20px;
+}
+.img_display2{
+    width: 340px;
+    height: 210px;
+    padding: 10px;
+}
+table{
+    text-align: center;
+    margin-top: 30px;
+}
+.font1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.font2{
+    font-size: 16px;
+}
+#footer{
+	width: 100%;
+	height: 12%;
+	text-align: center;
+	background-color: black;
+}
+.p_footer1{
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
